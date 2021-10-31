@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Jicelmo Andrade 🖐️
-Developer Delphi : D5, D6, D7, XE a XE8,  
+Delphi Developer : D5, D6, D7, XE a XE8,  
 Seattle, Berlin, Tokyo e Atualmente usando Delphi Rio  
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jicelmo)
