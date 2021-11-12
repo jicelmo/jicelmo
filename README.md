@@ -1,4 +1,10 @@
 ## Olá! Eu sou o Jicelmo Andrade 🖐️
+
+Meu primeiro contato com TI foi em 1995 com um curso de aprendizagem de
+MSDOS e BASIC I e II (Linguagem de Programação). Em 2000, conheci o Visual
+Basic, logo depois comecei a estudar o Delphi 5 e até hoje programo usando
+essa linguagem, passando por todas as suas versões até o Delphi Rio, o qual
+estou utilizando atualmente.
 Delphi Developer : D5, D6, D7, XE a XE8,  
 Seattle, Berlin, Tokyo e Atualmente usando Delphi Rio  
 
