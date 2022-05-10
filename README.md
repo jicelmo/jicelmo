@@ -6,7 +6,11 @@ Basic, logo depois comecei a estudar o Delphi 5 e até hoje programo usando
 essa linguagem, passando por todas as suas versões até o Delphi Rio, o qual
 estou utilizando atualmente.
 Delphi Developer : D5, D6, D7, XE a XE8,  
-Seattle, Berlin, Tokyo e Atualmente usando Delphi Rio  
+Seattle, Berlin, Tokyo e Atualmente usando Delphi Rio 
+
+Banco de Dados Principais: 
+Oracle, PostgreSQL, DB2, SQLServer
+PL/SQL, PL/PGSQL 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jicelmo)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jicelmo)
